@@ -32,40 +32,34 @@ body{
 }
 
 
-.footer{
-  max-width:100%;
-}
-
 h1{
     font-family:'Chelsea Market';
     font-size:5rem;
-    margin:2%;
-    display:inline-block;
-    text-align:right;
+    margin:4%;
 }
 
 .header{
-  max-width:20%;
+  max-width:25%;
   border-radius:50%;
+  float: left;
 }
 
 h3{
     font-size:1.5rem;
-    max-width: 30%;
-    display:inline-block;
-    text-align:right;
+    margin:2%;
+    max-width:80%;
 }
-
 
 
 .caliClass{
     font-size:1.5rem;
-    max-width: 40%;
-    text-align:right;
+    margin:2%;
+    max-width:90%;
 }
 
 .parkPic{
-    max-width:5%;
+    max-width:40%;
+    margin:2%;
 }
 
 #mainBody{
@@ -83,10 +77,11 @@ h3{
 }
 
 section{
-  font-size:1.2rem;
+  font-size:1.0rem;
   max-width:25%;
   margin:0 auto;
   padding:2%;
+  
 }
 
 .warning{
@@ -99,8 +94,8 @@ section{
 
 .planVisit{
     background-color:#FF764E;
-    padding:2% 2%;
-    margin:5%;
+    margin:9%;
+    padding:2%;
     border-radius:25px;
     color:white;
     font-size:1rem;
@@ -108,8 +103,8 @@ section{
 
 .learnPark{
     background-color:#5ED3EB;
-    padding:2% 2%;
-    margin:5%;
+    padding:2%;
+    margin:9%;
     border-radius:25px;
     color:white;
     font-size:1rem;
@@ -117,8 +112,8 @@ section{
 
 .getInvolved{
     background-color:#FFCD69;
-    padding:2% 2%;
-    margin:5%;
+    margin:9%;
+    padding:2%;
     border-radius:25px;
     color:white;
     font-size:1rem;
@@ -128,5 +123,12 @@ footer{
   background-color:#F9E7DC;
   border:1% solid #F9E7DC;
   width:100%;
+  height:10%;
   padding:2%;
+
+}
+
+.footerOne{
+    width:100%;
+    height:50vh;
 }
