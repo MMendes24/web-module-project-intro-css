@@ -29,14 +29,14 @@ body{
 
 h1{
     font-family:'Chelsea Market';
-    font-size:2rem;
-    padding:2%;
+    font-size:5rem;
+    margin:2% auto;
 }
 
 h3{
     font-size:1.5rem;
     max-width: 30%;
-    margin:2% auto;
+    margin:3% auto;
 }
 
 .caliClass{
@@ -50,7 +50,7 @@ h3{
     color:white;
     font-size:1.5rem;
     max-width: 75%;
-    margin:auto;
+    margin:2% auto;
     
 }
 
