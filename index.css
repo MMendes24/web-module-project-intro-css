@@ -22,4 +22,43 @@ time, mark, audio, video {
 body{
     font-family:'Roboto Mono', monospace;
     font-size:62.5%;
+    background-color:#DDB9A3;
+    text-align:center;
+}
+
+h1{
+    font-family:'Chelsea Market';
+    font-size:2rem;
+    padding:2%;
+}
+
+h3{
+    font-size:1.5rem;
+    max-width: 20%;
+    margin:2% auto;
+}
+
+.warning{
+  font-weight: bold;
+}
+
+nav a{
+  display:inline-block;
+  text-align:center; 
+}
+
+.planVisit{
+    background-color:#FF764E;
+}
+
+.learnPark{
+    background-color:#5ED3EB;
+}
+
+.getInvolved{
+    background-color:#FFCD69;
+}
+
+footer{
+  background-color:#F9E7DC;
 }
